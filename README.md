@@ -1,4 +1,6 @@
+
 # py01-keras-setup
+2019/08/04現在  
 keras + tensorflow + windows 10 + GPU でdeeplearningを動かせる環境をセットアップする。
 
 ## 環境構築
