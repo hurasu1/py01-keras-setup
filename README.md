@@ -4,7 +4,7 @@
 keras + tensorflow + windows 10 + GPU でdeeplearningを動かせる環境をセットアップする。
 
 ## 環境構築
-pythonのeditorは[**pycharm**](https://www.jetbrains.com/pycharm/)を利用する。理由は、intelliJ(pycharmを作った会社が出しているjava用のeditor)を使ったが、出来が良かったため。
+pythonのeditorは[**pycharm**](https://www.jetbrains.com/pycharm/)を利用する。理由は、intelliJ(pycharmを作った会社が出しているjava用のeditor)を使った経験があるが、出来が良かったため。
 
 ## anacondaのインストール
 pythonの仮想環境。
@@ -42,3 +42,6 @@ pip install tensorflow-gpu==<version>
 
 ## その他
 - pycharm上で、選択部分のコードを実行するショートカットは 　ALT+SHIFT+E　である。
+
+## 参考にしたサイト
+- https://qiita.com/umesaku/items/b9290520479c8167363d
