@@ -39,6 +39,7 @@ pip install keras==<version>
 pip install tensorflow-gpu==<version>
 ```
 で実行ができる。
+今回はkerasは最新ver + tensorflow-gpu=1.13.1 + cuda 10.0の組み合わせ
 
 ## その他
 - pycharm上で、選択部分のコードを実行するショートカットは 　ALT+SHIFT+E　である。
